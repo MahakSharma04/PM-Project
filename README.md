@@ -1,4 +1,4 @@
-# Pass Keeper - A Simple Password Manager
+# Password Manager and Generator
 
 ## 🛡️ About
 Pass Keeper is a simple, client-side password manager that securely stores website login credentials using **localStorage** in the browser. This project allows users to:
